@@ -12,5 +12,5 @@ def multiply(a,b):        #multiplication function
 def divide(a,b):          #division function
     return a / b
 
-def remain(a,b):
+def remain(a,b):          #remainder function
     return a % b
